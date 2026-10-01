@@ -1,0 +1,11 @@
+# Blender auto-saves and temporary backup files
+*.blend1
+*.blend2
+*.blend3
+*.blend4
+*.sys
+*.crash.txt
+
+# OS metadata
+.DS_Store
+Thumbs.db
